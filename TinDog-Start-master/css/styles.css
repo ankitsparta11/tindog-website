@@ -1,0 +1,72 @@
+#title{
+     background-color: #ff4c68;
+     color: #fff;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+body{
+    
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.title-image{
+    width: 40%;
+    transform: rotate(25deg);
+}
+
+
+#features{
+    padding: 7% 15%;
+    
+}
+
+.feature-box{
+    text-align: center;
+    padding: 3%;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    color: gray;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.testimonial-image{
+
+    border-radius: 100%;
+    margin: 2px;
+    width: 10%;
+}
+
+
+
+
+#press{
+
+    text-align: center;
+    background-color: #ff4c68;
+}
+.press-logo{
+
+    padding-bottom: 5%;
+    margin: 2% 2%;
+    width: 15%;
+}
